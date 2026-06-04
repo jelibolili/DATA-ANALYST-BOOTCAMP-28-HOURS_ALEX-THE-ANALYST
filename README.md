@@ -2,7 +2,7 @@
 Hello! This repository documents my ongoing journey through the 28-hour Data Analyst Bootcamp by Alex The Analyst. I am actively learning the entire roadmap, starting from Data Fundamentals all the way to R programming.
 ### BOOTCAMP ROADMAP
 - [Data Fundamentals](Data_Fundamentals.md)
-- MySQL (ONGOING)
+- [MySQL](MySQL)
 - Excel
 - Tableau
 - Power BI

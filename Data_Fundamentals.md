@@ -8,8 +8,10 @@ Example of using data:
 - Structured Data > In tabular formats (rows and columns).
 - Semi Structured Data > A format that is in the middle, which is not stored in a rigid table form, but still has labels or separators.
 - Unstructured Data > Data without a special format such as article text, images, video, or audio.
-
+  
 #### KPI VS METRICS
+Once data is structured and categorized, a Data Analyst uses it to measure business performance. This is where KPIs and Metrics come into play to turn raw data into actionable insights. 
 While both track performance, they serve different purposes:
-- KPIs show whether we are successfully reaching our key business goals.
-- Metrics help us track day-to-day activities and understand what is happening within our data.
+- KPIs (Key Performance Indicators) show the big picture of whether we are successfully reaching our critical business goals.
+- Metrics track day-to-day activities and help us understand the smaller details of what is happening within our data to support those KPIs.
+*In short: All KPIs are metrics, but not all metrics are KPIs.*

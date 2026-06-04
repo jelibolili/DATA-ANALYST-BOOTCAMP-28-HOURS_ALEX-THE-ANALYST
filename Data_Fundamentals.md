@@ -14,4 +14,5 @@ Once data is structured and categorized, a Data Analyst uses it to measure busin
 While both track performance, they serve different purposes:
 - KPIs (Key Performance Indicators) show the big picture of whether we are successfully reaching our critical business goals.
 - Metrics track day-to-day activities and help us understand the smaller details of what is happening within our data to support those KPIs.
+
 *In short: All KPIs are metrics, but not all metrics are KPIs.*

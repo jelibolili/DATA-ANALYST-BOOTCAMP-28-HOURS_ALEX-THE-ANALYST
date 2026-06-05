@@ -48,3 +48,16 @@ Data collection is important because:
 - It ensures you have the raw material needed to make informed decisions.
 - It helps you identify trends, patterns, and opportunities.
 - It lays the foundation for data quality, poor collection leads to inaccurate results.
+
+#### DATA PIPELINE
+System that automates the movement of data from one place to another while often transforming it along the way.
+
+**ETL Pipeline (Extact, Transform, Load)**
+
+An ETL Pipeline is the process used to move data from raw sources to a final destination (Data Warehouse).
+- **Extract:** Pulling raw data from various sources (Source 1, Source 2, Source 3).
+- **Transform:** Cleaning and processing the raw data in a staging area to convert it into a structured, prepared format.
+- **Load:** Moving the prepared and cleaned data into a Data Warehouse.
+
+The Goal of ETL:
+Once the ETL process is complete and the data is safely stored in the Data Warehouse, it is ready for Analysis. This is where Data Analysts step in to query the data, find trends, and produce actionable results or insights.

@@ -55,9 +55,11 @@ System that automates the movement of data from one place to another while often
 **ETL Pipeline (Extact, Transform, Load)**
 
 An ETL Pipeline is the process used to move data from raw sources to a final destination (Data Warehouse).
-- **Extract:** Pulling raw data from various sources (Source 1, Source 2, Source 3).
+- **Extract:** Pulling raw data from various sources (Source 1, Source 2, Source 3, etc).
 - **Transform:** Cleaning and processing the raw data in a staging area to convert it into a structured, prepared format.
 - **Load:** Moving the prepared and cleaned data into a Data Warehouse.
 
-The Goal of ETL:
-Once the ETL process is complete and the data is safely stored in the Data Warehouse, it is ready for Analysis. This is where Data Analysts step in to query the data, find trends, and produce actionable results or insights.
+Once the data is successfully loaded into the Data Warehouse, it is ready for the analysis stage. At this stage, the data is queried to find trends, build dashboards, and generate actionable insights.
+
+#### DATA CLEANING
+

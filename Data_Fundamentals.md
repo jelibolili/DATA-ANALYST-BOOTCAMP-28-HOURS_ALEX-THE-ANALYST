@@ -71,6 +71,7 @@ We need to clean data because:
 - It builds trust: Stakeholders need confidence in data to act on insights.
 
 Data Cleaning Cycle 
+
 The process of cleaning data typically follows a continuous cycle to ensure data quality from start to finish. This cycle involves several key steps:
 
 - Importing data
